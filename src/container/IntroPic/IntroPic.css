@@ -1,0 +1,22 @@
+.img__container {
+    display: flex;
+}
+
+.pic-container {
+    width: 45%;
+    margin: 130px 40px 80px 40px;
+}
+
+.intro__pic {
+   width: 100%;
+}
+
+.intro__pic {
+    border-right: 5px solid var(--color-golden);
+
+}
+
+.right {
+    margin-top: 320px;  
+    
+}
